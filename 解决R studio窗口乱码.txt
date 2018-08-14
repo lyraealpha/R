@@ -1,0 +1,4 @@
+windows:
+(1) 控制台->地区与语言->系统管理(Tab)->非 unicde程式的语言->选择 中文, 简体
+R run：
+> Sys.setlocale("LC_ALL","Chinese")
